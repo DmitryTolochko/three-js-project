@@ -1,0 +1,8 @@
+Model Information:
+* title:	Futuristic City
+* source:	https://sketchfab.com/3d-models/futuristic-city-688a186605d4456c998544b7fe536081
+* author:	golukumar (https://sketchfab.com/mortalityrexotable)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
